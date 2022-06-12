@@ -60,7 +60,7 @@ function draw() {
 function restart() {
   x_bolinha = 300;
   y_bolinha = 200;
-
+ 
   x_player = 10;
   y_player = 150;
   x_bot = 580;
