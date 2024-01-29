@@ -1,7 +1,7 @@
 # Ping-Pong-2D (p5.js)
 
 
-> Um clássico jogo de ping pong para computador (*de Gustavo Proença do Amaral*)
+> Um clássico jogo de ping pong para computador
 - Feito a partir dos cursos Alura
 - Atividade de pensamento computacional
 
